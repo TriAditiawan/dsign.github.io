@@ -1,0 +1,89 @@
+.container {
+  margin-top: 50px;
+  background-color: rgb(240, 227, 181);
+  width: 600px;
+  height: 1000px;
+  position: relative;
+}
+h2 span {
+  color: rgb(240, 227, 181);
+}
+* {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 800;
+}
+.orang {
+  margin-top: 20px;
+  width: 200%;
+  margin-left: -130px;
+  position: relative;
+}
+
+.joging {
+  margin-left: 100px;
+  font-size: 80px;
+  margin-top: 50px;
+}
+.joging2 {
+  color: red;
+  margin-top: 10px;
+  font-size: 70px !important;
+}
+.joging1 {
+  font-size: 170px !important;
+  color: red;
+  margin-top: -80px;
+}
+.joging3 {
+  font-size: 70px;
+  margin-top: 10px;
+  z-index: 999;
+}
+.tetangga img {
+  border-radius: 500px;
+}
+.bawah {
+  font-size: 60px;
+  margin-left: 100px;
+  margin-top: 8px;
+}
+.bawah2 {
+  font-size: 80px;
+}
+.bawah3 {
+  font-size: 110px;
+  color: red;
+  margin-top: -50px;
+  margin-left: 10px;
+}
+.bawah4 {
+  color: red;
+  font-size: 60px;
+  margin-top: -5px;
+}
+.bawah5 {
+  font-size: 60px;
+  margin-top: 0px;
+}
+.gotong {
+  background-color: rgb(253, 69, 69);
+  height: 300px;
+  margin-left: 1px;
+}
+.bulet {
+  border-radius: 500px;
+  width: 200px;
+  border: 5px solid white;
+  margin-top: 50px;
+  background-color: white;
+}
+.bebas {
+  font-size: 40px;
+  margin-left: 30px;
+  color: rgb(240, 227, 181);
+}
+.bebas1 {
+  font-size: 130px;
+  margin-top: -90px;
+  color: rgb(240, 227, 181);
+}
